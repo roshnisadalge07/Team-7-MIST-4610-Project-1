@@ -6,7 +6,7 @@
 ## Team Members:
 
 1. Chen, Jennie <jc93544@uga.edu>
-2. Ferington, Nick
+2. Ferington, Nick <scp42259@uga.edu>
 3. Lawler, Elena
 4. Pham, Shawn
 5. Sadalge, Roshni
