@@ -8,7 +8,7 @@
 1. Chen, Jennie <jc93544@uga.edu>
 2. Ferington, Nick 
 3. Lawler, Elena
-4. Pham, Shawn <scp42259@uga.edu>
+4. Pham, Shawn ([@shawnpham]((https://github.com/ShawnPham21)))
 5. Sadalge, Roshni
 
 ## Problem Description:
