@@ -56,9 +56,11 @@ Managers can identify which category belongs to each aisle and easily know where
 
 ![query4](https://github.com/user-attachments/assets/da3c4fec-906a-4628-ba32-1fd68e14b3af)
 
-5.
+5. Query 5 shows the product names that were displayed within a certain date range (09/21 - 09/25), the quantity sold, and the total revenue made from each of those products.
 
 ![query5](https://github.com/user-attachments/assets/84ad98e3-d348-4d5d-baed-5061fa23ade5)
+
+A manager can utilize this information to identify what products generated the highest amount of revenue within a smaller period of time and can make decisions for future sales.
 
 6.
 
@@ -76,9 +78,12 @@ Managers can identify which category belongs to each aisle and easily know where
 
 ![query9](https://github.com/user-attachments/assets/9b29694d-db8d-4e10-b792-39e2a73f3021)
 
-10.
+10. Query 10  lists all sales transactions and dates with the corresponding names of the employees who processed those transactions.
 
 ![query10](https://github.com/user-attachments/assets/14ebdbc8-f3ea-4d4d-9d95-db7342f272bc)
+
+For grocery store managers, this query is helpful in tracking which employees are handling specific transactions, making it easier to monitor sales performance, manage employee accountability, and identify transaction trends across different staff members.
+
 ## Database information:
 
 
