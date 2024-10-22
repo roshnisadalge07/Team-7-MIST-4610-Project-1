@@ -6,9 +6,9 @@
 ## Team Members:
 
 1. Chen, Jennie <jc93544@uga.edu>
-2. Ferington, Nick <scp42259@uga.edu>
+2. Ferington, Nick 
 3. Lawler, Elena
-4. Pham, Shawn
+4. Pham, Shawn <scp42259@uga.edu>
 5. Sadalge, Roshni
 
 ## Problem Description:
