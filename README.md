@@ -76,9 +76,11 @@ A manager can utilize this information to identify what products generated the h
 
 ![query8](https://github.com/user-attachments/assets/36708902-deae-49e0-90d7-b3580fc34485)
 
-9.
+9. Query 9 Retrieve all products and their respective brand names. 
 
 ![query9](https://github.com/user-attachments/assets/9b29694d-db8d-4e10-b792-39e2a73f3021)
+
+This query allows managers can get a comprehensive list of products along with their associated brand names. This information allows managers to review the current product lineup and understand which brands are most represented in the inventory.
 
 10. Query 10  lists all sales transactions and dates with the corresponding names of the employees who processed those transactions.
 
