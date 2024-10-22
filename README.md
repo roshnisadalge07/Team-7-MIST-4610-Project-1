@@ -52,9 +52,11 @@ Managers can identify which category belongs to each aisle and easily know where
 
 ![query3](https://github.com/user-attachments/assets/789ebcb2-17da-4db6-b4ac-41991e43ef32)
 
-4.
+4. Query 4 Finds the top-selling product in each category based on the total quantity sold.
 
 ![query4](https://github.com/user-attachments/assets/da3c4fec-906a-4628-ba32-1fd68e14b3af)
+
+This query allows manager to identify the best-selling product in each category, helping them understand which products drive the most sales and should be prioritized in marketing efforts.
 
 5. Query 5 shows the product names that were displayed within a certain date range (09/21 - 09/25), the quantity sold, and the total revenue made from each of those products.
 
