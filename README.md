@@ -36,12 +36,48 @@
 
 1. Query 1 displays the category name and its corresponding aisle number. The results are ordered by aisle numbers in ascending order.
 
-![image](https://github.com/user-attachments/assets/bac27215-5d7b-4620-a779-050882364075)
+![query1](https://github.com/user-attachments/assets/bac27215-5d7b-4620-a779-050882364075)
 
 Managers can identify which category belongs to each aisle and easily know where products within that category are located. This can also be helpful to employees who are responsible for restocking shelves within each aisle. 
 
+2. 
 
+![query2](https://github.com/user-attachments/assets/3887f31c-6658-4554-84e3-49ffa05d242b)
+
+3.
+
+![query3](https://github.com/user-attachments/assets/789ebcb2-17da-4db6-b4ac-41991e43ef32)
+
+4.
+
+![query4](https://github.com/user-attachments/assets/da3c4fec-906a-4628-ba32-1fd68e14b3af)
+
+5.
+
+![query5](https://github.com/user-attachments/assets/84ad98e3-d348-4d5d-baed-5061fa23ade5)
+
+6.
+
+![query6](https://github.com/user-attachments/assets/b583f152-9b3e-4e5d-bb40-35784b32b077)
+
+7.
+
+![query7](https://github.com/user-attachments/assets/13964846-ec2d-4eb6-8684-eae34b4ee43f)
+
+8.
+
+![query8](https://github.com/user-attachments/assets/36708902-deae-49e0-90d7-b3580fc34485)
+
+9.
+
+![query9](https://github.com/user-attachments/assets/9b29694d-db8d-4e10-b792-39e2a73f3021)
+
+10.
+
+![query10](https://github.com/user-attachments/assets/14ebdbc8-f3ea-4d4d-9d95-db7342f272bc)
 ## Database information:
+
+
 
 
 
