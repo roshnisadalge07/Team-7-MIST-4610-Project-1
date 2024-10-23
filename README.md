@@ -44,9 +44,11 @@ This data model showcases the store operational data, including products, invent
 
 Managers can identify which category belongs to each aisle and easily know where products within that category are located. This can also be helpful to employees who are responsible for restocking shelves within each aisle. 
 
-2. 
+2. Query 2 shows the product name, how many items are currently in stock of that product, and when the product needs to be restocked. 
 
 ![query2](https://github.com/user-attachments/assets/3887f31c-6658-4554-84e3-49ffa05d242b)
+
+This allows a manager to be aware of how many items are in stock for each product and when they must restock them. They will have constant knowledge on the inventory for their store, allowing them to keep customers happy and have a high number of sales. 
 
 3.
 
