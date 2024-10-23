@@ -80,7 +80,7 @@ A manager can utilize this information to identify what products generated the h
 
 ![query6](https://github.com/user-attachments/assets/b583f152-9b3e-4e5d-bb40-35784b32b077)
 
-The information provided by this query can let a manager decide what products are not as popular or are not selling as well as other products within the grocery store. This can help them when they need to put in orders for new inventory and if they want to purchase the low-selling products again. 
+The information provided by this query can let a manager decide what products are not as popular or are not selling as well as other products within the grocery store. This can help them when they need to put in orders for new inventory and if they want to purchase the low-selling products again. This can also help managers make decisions about promotions and price cuts. 
 
 7. Query 7 shows all brand names and the corresponding contact emails for brands that have sold a total of at least four products, ordered in descending order. 
 
