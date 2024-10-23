@@ -16,7 +16,15 @@ Our Grocery Store Database depicts a database system to streamline the operation
 
 ## Data Model:
 
-This data model showcases the store operational data, including products, inventory, sales transactions, and employee details. The Product entity is linked to both Category and Brand, allowing for the organization of products by type (e.g., dairy, beverages) and tracking of the brand of the products. The Inventory entity tracks product stock levels, restock quantities, and dates, ensuring that the store remains well-supplied. Sales data is captured through two interconnected tables: Sales Transaction, which logs overall transaction details like payment type and total price, and Sales Transaction Details, which records the specific products and quantity sold in each transaction. Lastly, the Employee entity connects staff members to the sales they process, supporting workforce management and performance tracking. The relationships between these entities ensure comprehensive data storage for managing day-to-day operations.
+This data model showcases a grocery store's operational data, including products, inventory, sales transactions, and employee details. The Product entity is linked to both Category and Brand, allowing for the organization of products by type (e.g., dairy, beverages) and tracking of the brand of the products. The Inventory entity tracks product stock levels, restock quantities, and dates, ensuring that the store remains well-supplied. Sales data is captured through two interconnected tables: Sales Transaction, which logs overall transaction details like payment type and total price, and Sales Transaction Details, which records the specific products and quantity sold in each transaction. Lastly, the Employee entity connects staff members to the sales they process, supporting workforce management and performance tracking. The relationships between these entities ensure comprehensive data storage for managing day-to-day operations.
+
+The Product entity serves as the foundation of the data model. It stores the product name, description, price, and expiration date. Category and Brand use the Product entity as the linking entity in a many-to-many relationship. A brand can be associated with many categories and a category can be associated with many brands. 
+
+The Inventory entity has a one-to-one relationship with Product because this entity is used to simply connect the inventory information to each product.
+
+When it comes to the Sales Transaction entity, this is connected to the Product entity through a one-to-many relationship. A product can be included in many sales transaction details, but when it comes to the specific sale transaction, each detail must be associated with one product. The Sales Transaction relates directly to the transaction details.
+
+Finally, Employee has a one-to-many relationship with the Sales Transaction entity. Employees could have worked at plenty of sales transactions, but a sales transaction can only have one employee. The Employee entity and its relationships are used to track which employees are working which sales, allowing the grocery store to have input on its employees.
 
 ![Data_Model](https://github.com/user-attachments/assets/293bfc6f-73db-4592-9ccb-bc900f03417c)
 
