@@ -62,13 +62,13 @@ This allows a manager to be aware of how many items are in stock for each produc
 
 ![query3](https://github.com/user-attachments/assets/28fe5c5e-5362-4cb6-85f5-ac5abb2d2c0c)
 
-This information is useful to a manager because they are able to identify the employees who are responsible for the highest amount of sales within the store. From there, managers could make decisions on promotions or pay raises for employees who fall into this category. Ordering the total sales in descending order makes it easier to see who the overall top employee is. 
+This information is useful to a manager because they are able to identify the employees who are responsible for the highest amount of sales within the store. From there, managers could make decisions on promotions or pay raises for employees who fall into this category. Ordering the total sales in descending order makes it easier to see who the overall top employee is. They could also provide bonuses for employees if they reach a certain percentage of sales.
 
 4. Query 4 finds the top-selling product in each category based on the total quantity sold.
 
 ![query4](https://github.com/user-attachments/assets/5470d0ab-f8cd-4130-aed6-ef2013a0f779)
 
-This query allows manager to identify the best-selling product in each category, helping them understand which products drive the most sales and should be prioritized in marketing efforts.
+This query allows manager to identify the best-selling product in each category, helping them understand which products drive the most sales and should be prioritized in marketing efforts. 
 
 5. Query 5 shows the product names that were displayed within a certain date range (09/21 - 09/25), the quantity sold, and the total revenue made from each of those products.
 
