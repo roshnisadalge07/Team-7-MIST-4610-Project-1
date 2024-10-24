@@ -110,7 +110,7 @@ For grocery store managers, this query is helpful in tracking which employees ar
 
 Name of the database: ha_group7
 
-Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
+All queries are bookmarked through stored procedures and can be called using this format: CALL TP_Qx(); where 'x' is the query number.
 
 
 
